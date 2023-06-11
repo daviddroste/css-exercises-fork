@@ -1,0 +1,11 @@
+.primerboton{
+    background-color: black;
+    color: white;
+}
+.segundoboton{
+    background-color: yellow;
+}
+
+.segundoboton, .primerboton {
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
